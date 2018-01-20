@@ -1,0 +1,1261 @@
+2016-10-21 17:23:25,956 INFO  [Log] New driver instantiated 
+2016-10-21 17:23:26,020 INFO  [Log] Log In link element found 
+2016-10-21 17:23:26,057 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 17:23:28,138 INFO  [Log] header text button found 
+2016-10-21 17:23:28,160 INFO  [Log] Submit button found 
+2016-10-21 17:23:34,451 INFO  [Log] Username text box found 
+2016-10-21 17:23:34,642 INFO  [Log] Username text box found 
+2016-10-21 17:23:34,661 INFO  [Log] Username text box found 
+2016-10-21 17:23:34,681 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:23:34,689 INFO  [Log] Password text box found 
+2016-10-21 17:23:34,713 INFO  [Log] Password text box found 
+2016-10-21 17:23:34,726 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:23:34,740 INFO  [Log] Login button found 
+2016-10-21 17:23:34,771 INFO  [Log] Login button found 
+2016-10-21 17:23:34,812 INFO  [Log] Login button clicked 
+2016-10-21 17:23:34,864 INFO  [Log] Username text box found 
+2016-10-21 17:23:34,887 INFO  [Log] Username text box found 
+2016-10-21 17:23:34,904 INFO  [Log] Username text box found 
+2016-10-21 17:23:34,926 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:23:34,934 INFO  [Log] Password text box found 
+2016-10-21 17:23:34,955 INFO  [Log] Password text box found 
+2016-10-21 17:23:34,970 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:23:34,977 INFO  [Log] Login button found 
+2016-10-21 17:23:35,011 INFO  [Log] Login button found 
+2016-10-21 17:23:35,941 INFO  [Log] Login button clicked 
+2016-10-21 17:23:35,976 INFO  [Log] Username text box found 
+2016-10-21 17:23:36,003 INFO  [Log] Username text box found 
+2016-10-21 17:23:36,025 INFO  [Log] Username text box found 
+2016-10-21 17:23:36,040 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:23:36,046 INFO  [Log] Password text box found 
+2016-10-21 17:23:36,065 INFO  [Log] Password text box found 
+2016-10-21 17:23:36,085 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:23:36,092 INFO  [Log] Login button found 
+2016-10-21 17:23:36,116 INFO  [Log] Login button found 
+2016-10-21 17:23:36,141 INFO  [Log] Login button clicked 
+2016-10-21 17:23:36,185 INFO  [Log] Username text box found 
+2016-10-21 17:23:36,206 INFO  [Log] Username text box found 
+2016-10-21 17:23:36,225 INFO  [Log] Username text box found 
+2016-10-21 17:23:36,241 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:23:36,248 INFO  [Log] Password text box found 
+2016-10-21 17:23:36,267 INFO  [Log] Password text box found 
+2016-10-21 17:23:36,287 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:23:36,293 INFO  [Log] Login button found 
+2016-10-21 17:23:36,321 INFO  [Log] Login button found 
+2016-10-21 17:23:36,342 INFO  [Log] Login button clicked 
+2016-10-21 17:23:36,885 INFO  [Log] Username text box found 
+2016-10-21 17:23:36,908 INFO  [Log] Username text box found 
+2016-10-21 17:23:36,928 INFO  [Log] Username text box found 
+2016-10-21 17:23:36,960 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:23:36,969 INFO  [Log] Password text box found 
+2016-10-21 17:23:36,984 INFO  [Log] Password text box found 
+2016-10-21 17:23:37,003 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:23:37,010 INFO  [Log] Login button found 
+2016-10-21 17:23:37,039 INFO  [Log] Login button found 
+2016-10-21 17:23:37,060 INFO  [Log] Login button clicked 
+2016-10-21 17:23:37,707 INFO  [Log] Username text box found 
+2016-10-21 17:23:37,729 INFO  [Log] Username text box found 
+2016-10-21 17:23:37,753 INFO  [Log] Username text box found 
+2016-10-21 17:23:37,779 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:23:37,786 INFO  [Log] Password text box found 
+2016-10-21 17:23:37,803 INFO  [Log] Password text box found 
+2016-10-21 17:23:37,818 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:23:37,824 INFO  [Log] Login button found 
+2016-10-21 17:23:37,848 INFO  [Log] Login button found 
+2016-10-21 17:23:37,869 INFO  [Log] Login button clicked 
+2016-10-21 17:30:55,229 INFO  [Log] New driver instantiated 
+2016-10-21 17:30:55,258 INFO  [Log] Log In link element found 
+2016-10-21 17:30:55,291 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 17:30:55,848 INFO  [Log] header text button found 
+2016-10-21 17:30:55,875 INFO  [Log] Submit button found 
+2016-10-21 17:31:02,792 INFO  [Log] Username text box found 
+2016-10-21 17:31:02,821 INFO  [Log] Username text box found 
+2016-10-21 17:31:02,843 INFO  [Log] Username text box found 
+2016-10-21 17:31:02,863 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:31:02,873 INFO  [Log] Password text box found 
+2016-10-21 17:31:02,896 INFO  [Log] Password text box found 
+2016-10-21 17:31:02,914 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:31:02,923 INFO  [Log] Login button found 
+2016-10-21 17:31:02,959 INFO  [Log] Login button found 
+2016-10-21 17:31:03,070 INFO  [Log] Login button clicked 
+2016-10-21 17:31:03,124 INFO  [Log] Username text box found 
+2016-10-21 17:31:03,151 INFO  [Log] Username text box found 
+2016-10-21 17:31:03,173 INFO  [Log] Username text box found 
+2016-10-21 17:31:03,199 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:31:03,210 INFO  [Log] Password text box found 
+2016-10-21 17:31:03,232 INFO  [Log] Password text box found 
+2016-10-21 17:31:03,249 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:31:03,258 INFO  [Log] Login button found 
+2016-10-21 17:31:03,296 INFO  [Log] Login button found 
+2016-10-21 17:31:04,701 INFO  [Log] Login button clicked 
+2016-10-21 17:31:04,805 INFO  [Log] Username text box found 
+2016-10-21 17:31:04,828 INFO  [Log] Username text box found 
+2016-10-21 17:31:04,848 INFO  [Log] Username text box found 
+2016-10-21 17:31:04,867 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:31:04,875 INFO  [Log] Password text box found 
+2016-10-21 17:31:04,891 INFO  [Log] Password text box found 
+2016-10-21 17:31:04,944 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:31:04,952 INFO  [Log] Login button found 
+2016-10-21 17:31:04,981 INFO  [Log] Login button found 
+2016-10-21 17:31:05,013 INFO  [Log] Login button clicked 
+2016-10-21 17:31:05,062 INFO  [Log] Username text box found 
+2016-10-21 17:31:05,082 INFO  [Log] Username text box found 
+2016-10-21 17:31:05,103 INFO  [Log] Username text box found 
+2016-10-21 17:31:05,123 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:31:05,129 INFO  [Log] Password text box found 
+2016-10-21 17:31:05,149 INFO  [Log] Password text box found 
+2016-10-21 17:31:05,172 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:31:05,179 INFO  [Log] Login button found 
+2016-10-21 17:31:05,208 INFO  [Log] Login button found 
+2016-10-21 17:31:05,227 INFO  [Log] Login button clicked 
+2016-10-21 17:31:05,771 INFO  [Log] Username text box found 
+2016-10-21 17:31:05,798 INFO  [Log] Username text box found 
+2016-10-21 17:31:05,818 INFO  [Log] Username text box found 
+2016-10-21 17:31:05,859 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:31:05,866 INFO  [Log] Password text box found 
+2016-10-21 17:31:05,885 INFO  [Log] Password text box found 
+2016-10-21 17:31:05,904 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:31:05,911 INFO  [Log] Login button found 
+2016-10-21 17:31:05,941 INFO  [Log] Login button found 
+2016-10-21 17:31:05,961 INFO  [Log] Login button clicked 
+2016-10-21 17:31:06,597 INFO  [Log] Username text box found 
+2016-10-21 17:31:06,614 INFO  [Log] Username text box found 
+2016-10-21 17:31:06,630 INFO  [Log] Username text box found 
+2016-10-21 17:31:06,645 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:31:06,651 INFO  [Log] Password text box found 
+2016-10-21 17:31:06,666 INFO  [Log] Password text box found 
+2016-10-21 17:31:06,684 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:31:06,691 INFO  [Log] Login button found 
+2016-10-21 17:31:06,715 INFO  [Log] Login button found 
+2016-10-21 17:31:06,730 INFO  [Log] Login button clicked 
+2016-10-21 17:37:32,333 INFO  [Log] New driver instantiated 
+2016-10-21 17:37:32,442 INFO  [Log] Log In link element found 
+2016-10-21 17:37:32,492 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 17:37:32,629 INFO  [Log] header text button found 
+2016-10-21 17:37:32,758 INFO  [Log] Submit button found 
+2016-10-21 17:37:39,634 INFO  [Log] Username text box found 
+2016-10-21 17:37:39,667 INFO  [Log] Username text box found 
+2016-10-21 17:37:39,687 INFO  [Log] Username text box found 
+2016-10-21 17:37:39,704 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:37:39,713 INFO  [Log] Password text box found 
+2016-10-21 17:37:39,742 INFO  [Log] Password text box found 
+2016-10-21 17:37:39,758 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:37:39,767 INFO  [Log] Login button found 
+2016-10-21 17:37:39,799 INFO  [Log] Login button found 
+2016-10-21 17:37:39,845 INFO  [Log] Login button clicked 
+2016-10-21 17:37:39,892 INFO  [Log] Username text box found 
+2016-10-21 17:37:39,917 INFO  [Log] Username text box found 
+2016-10-21 17:37:39,935 INFO  [Log] Username text box found 
+2016-10-21 17:37:39,958 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:37:39,968 INFO  [Log] Password text box found 
+2016-10-21 17:37:39,988 INFO  [Log] Password text box found 
+2016-10-21 17:37:40,005 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:37:40,012 INFO  [Log] Login button found 
+2016-10-21 17:37:40,042 INFO  [Log] Login button found 
+2016-10-21 17:37:41,045 INFO  [Log] Login button clicked 
+2016-10-21 17:37:41,081 INFO  [Log] Username text box found 
+2016-10-21 17:37:41,105 INFO  [Log] Username text box found 
+2016-10-21 17:37:41,124 INFO  [Log] Username text box found 
+2016-10-21 17:37:41,138 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:37:41,148 INFO  [Log] Password text box found 
+2016-10-21 17:37:41,167 INFO  [Log] Password text box found 
+2016-10-21 17:37:41,185 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:37:41,191 INFO  [Log] Login button found 
+2016-10-21 17:37:41,216 INFO  [Log] Login button found 
+2016-10-21 17:37:41,241 INFO  [Log] Login button clicked 
+2016-10-21 17:37:41,277 INFO  [Log] Username text box found 
+2016-10-21 17:37:41,302 INFO  [Log] Username text box found 
+2016-10-21 17:37:41,320 INFO  [Log] Username text box found 
+2016-10-21 17:37:41,338 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:37:41,345 INFO  [Log] Password text box found 
+2016-10-21 17:37:41,365 INFO  [Log] Password text box found 
+2016-10-21 17:37:41,385 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:37:41,391 INFO  [Log] Login button found 
+2016-10-21 17:37:41,420 INFO  [Log] Login button found 
+2016-10-21 17:37:41,438 INFO  [Log] Login button clicked 
+2016-10-21 17:37:41,979 INFO  [Log] Username text box found 
+2016-10-21 17:37:42,004 INFO  [Log] Username text box found 
+2016-10-21 17:37:42,023 INFO  [Log] Username text box found 
+2016-10-21 17:37:42,055 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:37:42,062 INFO  [Log] Password text box found 
+2016-10-21 17:37:42,082 INFO  [Log] Password text box found 
+2016-10-21 17:37:42,099 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:37:42,106 INFO  [Log] Login button found 
+2016-10-21 17:37:42,133 INFO  [Log] Login button found 
+2016-10-21 17:37:42,154 INFO  [Log] Login button clicked 
+2016-10-21 17:37:42,813 INFO  [Log] Username text box found 
+2016-10-21 17:37:42,839 INFO  [Log] Username text box found 
+2016-10-21 17:37:42,861 INFO  [Log] Username text box found 
+2016-10-21 17:37:42,883 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:37:42,890 INFO  [Log] Password text box found 
+2016-10-21 17:37:42,907 INFO  [Log] Password text box found 
+2016-10-21 17:37:42,963 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:37:42,974 INFO  [Log] Login button found 
+2016-10-21 17:37:43,005 INFO  [Log] Login button found 
+2016-10-21 17:37:43,024 INFO  [Log] Login button clicked 
+2016-10-21 17:43:44,245 INFO  [Log] Attendance link element found 
+2016-10-21 17:47:58,750 INFO  [Log] New driver instantiated 
+2016-10-21 17:47:59,296 INFO  [Log] Log In link element found 
+2016-10-21 17:47:59,334 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 17:47:59,899 INFO  [Log] header text button found 
+2016-10-21 17:47:59,924 INFO  [Log] Submit button found 
+2016-10-21 17:48:08,597 INFO  [Log] Username text box found 
+2016-10-21 17:48:08,626 INFO  [Log] Username text box found 
+2016-10-21 17:48:08,646 INFO  [Log] Username text box found 
+2016-10-21 17:48:08,667 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:48:08,676 INFO  [Log] Password text box found 
+2016-10-21 17:48:08,702 INFO  [Log] Password text box found 
+2016-10-21 17:48:08,717 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:48:08,729 INFO  [Log] Login button found 
+2016-10-21 17:48:08,766 INFO  [Log] Login button found 
+2016-10-21 17:48:08,813 INFO  [Log] Login button clicked 
+2016-10-21 17:48:08,865 INFO  [Log] Username text box found 
+2016-10-21 17:48:08,888 INFO  [Log] Username text box found 
+2016-10-21 17:48:08,909 INFO  [Log] Username text box found 
+2016-10-21 17:48:08,933 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:48:08,942 INFO  [Log] Password text box found 
+2016-10-21 17:48:08,960 INFO  [Log] Password text box found 
+2016-10-21 17:48:08,976 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:48:08,984 INFO  [Log] Login button found 
+2016-10-21 17:48:09,014 INFO  [Log] Login button found 
+2016-10-21 17:48:10,515 INFO  [Log] Login button clicked 
+2016-10-21 17:48:10,555 INFO  [Log] Username text box found 
+2016-10-21 17:48:10,575 INFO  [Log] Username text box found 
+2016-10-21 17:48:10,595 INFO  [Log] Username text box found 
+2016-10-21 17:48:10,606 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:48:10,613 INFO  [Log] Password text box found 
+2016-10-21 17:48:10,630 INFO  [Log] Password text box found 
+2016-10-21 17:48:10,645 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:48:10,653 INFO  [Log] Login button found 
+2016-10-21 17:48:10,676 INFO  [Log] Login button found 
+2016-10-21 17:48:10,702 INFO  [Log] Login button clicked 
+2016-10-21 17:48:10,735 INFO  [Log] Username text box found 
+2016-10-21 17:48:10,759 INFO  [Log] Username text box found 
+2016-10-21 17:48:10,780 INFO  [Log] Username text box found 
+2016-10-21 17:48:10,798 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:48:10,803 INFO  [Log] Password text box found 
+2016-10-21 17:48:10,820 INFO  [Log] Password text box found 
+2016-10-21 17:48:10,840 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:48:10,848 INFO  [Log] Login button found 
+2016-10-21 17:48:10,877 INFO  [Log] Login button found 
+2016-10-21 17:48:10,896 INFO  [Log] Login button clicked 
+2016-10-21 17:48:11,449 INFO  [Log] Username text box found 
+2016-10-21 17:48:11,469 INFO  [Log] Username text box found 
+2016-10-21 17:48:11,486 INFO  [Log] Username text box found 
+2016-10-21 17:48:11,519 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:48:11,527 INFO  [Log] Password text box found 
+2016-10-21 17:48:11,548 INFO  [Log] Password text box found 
+2016-10-21 17:48:11,565 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:48:11,571 INFO  [Log] Login button found 
+2016-10-21 17:48:11,597 INFO  [Log] Login button found 
+2016-10-21 17:48:11,616 INFO  [Log] Login button clicked 
+2016-10-21 17:48:12,292 INFO  [Log] Username text box found 
+2016-10-21 17:48:12,318 INFO  [Log] Username text box found 
+2016-10-21 17:48:12,336 INFO  [Log] Username text box found 
+2016-10-21 17:48:12,353 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:48:12,359 INFO  [Log] Password text box found 
+2016-10-21 17:48:12,380 INFO  [Log] Password text box found 
+2016-10-21 17:48:12,398 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:48:12,406 INFO  [Log] Login button found 
+2016-10-21 17:48:12,432 INFO  [Log] Login button found 
+2016-10-21 17:48:12,449 INFO  [Log] Login button clicked 
+2016-10-21 17:53:35,262 INFO  [Log] New driver instantiated 
+2016-10-21 17:53:35,287 INFO  [Log] Log In link element found 
+2016-10-21 17:53:35,314 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 17:53:35,883 INFO  [Log] header text button found 
+2016-10-21 17:53:35,904 INFO  [Log] Submit button found 
+2016-10-21 17:53:42,262 INFO  [Log] Username text box found 
+2016-10-21 17:53:42,293 INFO  [Log] Username text box found 
+2016-10-21 17:53:42,312 INFO  [Log] Username text box found 
+2016-10-21 17:53:42,329 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:53:42,340 INFO  [Log] Password text box found 
+2016-10-21 17:53:42,367 INFO  [Log] Password text box found 
+2016-10-21 17:53:42,386 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:53:42,396 INFO  [Log] Login button found 
+2016-10-21 17:53:42,431 INFO  [Log] Login button found 
+2016-10-21 17:53:42,474 INFO  [Log] Login button clicked 
+2016-10-21 17:53:42,576 INFO  [Log] Username text box found 
+2016-10-21 17:53:42,603 INFO  [Log] Username text box found 
+2016-10-21 17:53:42,625 INFO  [Log] Username text box found 
+2016-10-21 17:53:42,653 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:53:42,664 INFO  [Log] Password text box found 
+2016-10-21 17:53:42,687 INFO  [Log] Password text box found 
+2016-10-21 17:53:42,705 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:53:42,713 INFO  [Log] Login button found 
+2016-10-21 17:53:42,750 INFO  [Log] Login button found 
+2016-10-21 17:53:44,032 INFO  [Log] Login button clicked 
+2016-10-21 17:53:44,080 INFO  [Log] Username text box found 
+2016-10-21 17:53:44,106 INFO  [Log] Username text box found 
+2016-10-21 17:53:44,125 INFO  [Log] Username text box found 
+2016-10-21 17:53:44,138 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:53:44,146 INFO  [Log] Password text box found 
+2016-10-21 17:53:44,167 INFO  [Log] Password text box found 
+2016-10-21 17:53:44,190 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:53:44,199 INFO  [Log] Login button found 
+2016-10-21 17:53:44,224 INFO  [Log] Login button found 
+2016-10-21 17:53:44,246 INFO  [Log] Login button clicked 
+2016-10-21 17:53:44,292 INFO  [Log] Username text box found 
+2016-10-21 17:53:44,317 INFO  [Log] Username text box found 
+2016-10-21 17:53:44,337 INFO  [Log] Username text box found 
+2016-10-21 17:53:44,354 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:53:44,361 INFO  [Log] Password text box found 
+2016-10-21 17:53:44,380 INFO  [Log] Password text box found 
+2016-10-21 17:53:44,400 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:53:44,406 INFO  [Log] Login button found 
+2016-10-21 17:53:44,433 INFO  [Log] Login button found 
+2016-10-21 17:53:44,452 INFO  [Log] Login button clicked 
+2016-10-21 17:53:44,997 INFO  [Log] Username text box found 
+2016-10-21 17:53:45,020 INFO  [Log] Username text box found 
+2016-10-21 17:53:45,041 INFO  [Log] Username text box found 
+2016-10-21 17:53:45,074 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:53:45,083 INFO  [Log] Password text box found 
+2016-10-21 17:53:45,107 INFO  [Log] Password text box found 
+2016-10-21 17:53:45,127 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:53:45,136 INFO  [Log] Login button found 
+2016-10-21 17:53:45,166 INFO  [Log] Login button found 
+2016-10-21 17:53:45,191 INFO  [Log] Login button clicked 
+2016-10-21 17:53:45,836 INFO  [Log] Username text box found 
+2016-10-21 17:53:45,857 INFO  [Log] Username text box found 
+2016-10-21 17:53:45,873 INFO  [Log] Username text box found 
+2016-10-21 17:53:45,891 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:53:45,897 INFO  [Log] Password text box found 
+2016-10-21 17:53:45,912 INFO  [Log] Password text box found 
+2016-10-21 17:53:45,927 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:53:45,939 INFO  [Log] Login button found 
+2016-10-21 17:53:45,967 INFO  [Log] Login button found 
+2016-10-21 17:53:45,986 INFO  [Log] Login button clicked 
+2016-10-21 17:58:38,784 INFO  [Log] Username text box found 
+2016-10-21 17:58:38,815 INFO  [Log] Username text box found 
+2016-10-21 17:58:38,832 INFO  [Log] Username text box found 
+2016-10-21 17:58:38,856 INFO  [Log] Username entered in the Username text box 
+2016-10-21 17:58:38,862 INFO  [Log] Password text box found 
+2016-10-21 17:58:38,879 INFO  [Log] Password text box found 
+2016-10-21 17:58:38,900 INFO  [Log] Password entered in the Password text box 
+2016-10-21 17:58:38,911 INFO  [Log] Login button found 
+2016-10-21 17:58:38,940 INFO  [Log] Login button found 
+2016-10-21 17:58:38,965 INFO  [Log] Login button clicked 
+2016-10-21 18:03:00,677 INFO  [Log] New driver instantiated 
+2016-10-21 18:03:00,715 INFO  [Log] Log In link element found 
+2016-10-21 18:03:00,761 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 18:03:01,331 INFO  [Log] header text button found 
+2016-10-21 18:03:01,365 INFO  [Log] Submit button found 
+2016-10-21 18:03:07,791 INFO  [Log] Username text box found 
+2016-10-21 18:03:07,815 INFO  [Log] Username text box found 
+2016-10-21 18:03:07,833 INFO  [Log] Username text box found 
+2016-10-21 18:03:07,858 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:03:07,865 INFO  [Log] Password text box found 
+2016-10-21 18:03:07,889 INFO  [Log] Password text box found 
+2016-10-21 18:03:07,912 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:03:07,921 INFO  [Log] Login button found 
+2016-10-21 18:03:07,946 INFO  [Log] Login button found 
+2016-10-21 18:03:08,632 INFO  [Log] Login button clicked 
+2016-10-21 18:06:28,836 INFO  [Log] Username text box found 
+2016-10-21 18:06:28,863 INFO  [Log] Username text box found 
+2016-10-21 18:06:28,878 INFO  [Log] Username text box found 
+2016-10-21 18:06:28,904 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:06:28,911 INFO  [Log] Password text box found 
+2016-10-21 18:06:28,926 INFO  [Log] Password text box found 
+2016-10-21 18:06:28,946 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:06:28,953 INFO  [Log] Login button found 
+2016-10-21 18:06:28,977 INFO  [Log] Login button found 
+2016-10-21 18:06:28,995 INFO  [Log] Login button clicked 
+2016-10-21 18:09:49,053 INFO  [Log] Username text box found 
+2016-10-21 18:09:49,082 INFO  [Log] Username text box found 
+2016-10-21 18:09:49,099 INFO  [Log] Username text box found 
+2016-10-21 18:09:49,119 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:09:49,125 INFO  [Log] Password text box found 
+2016-10-21 18:09:49,139 INFO  [Log] Password text box found 
+2016-10-21 18:09:49,153 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:09:49,160 INFO  [Log] Login button found 
+2016-10-21 18:09:49,187 INFO  [Log] Login button found 
+2016-10-21 18:09:49,206 INFO  [Log] Login button clicked 
+2016-10-21 18:11:43,546 INFO  [Log] New driver instantiated 
+2016-10-21 18:11:43,573 INFO  [Log] Log In link element found 
+2016-10-21 18:11:43,601 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 18:11:44,218 INFO  [Log] header text button found 
+2016-10-21 18:11:44,245 INFO  [Log] Submit button found 
+2016-10-21 18:11:50,557 INFO  [Log] Username text box found 
+2016-10-21 18:11:50,574 INFO  [Log] Username text box found 
+2016-10-21 18:11:50,598 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:11:50,605 INFO  [Log] Password text box found 
+2016-10-21 18:11:50,627 INFO  [Log] Password text box found 
+2016-10-21 18:11:50,643 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:11:50,651 INFO  [Log] Login button found 
+2016-10-21 18:11:50,680 INFO  [Log] Login button found 
+2016-10-21 18:11:51,234 INFO  [Log] Login button clicked 
+2016-10-21 18:15:36,858 INFO  [Log] New driver instantiated 
+2016-10-21 18:15:36,896 INFO  [Log] Log In link element found 
+2016-10-21 18:15:36,922 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 18:15:37,517 INFO  [Log] header text button found 
+2016-10-21 18:15:37,548 INFO  [Log] Submit button found 
+2016-10-21 18:15:43,889 INFO  [Log] Username text box found 
+2016-10-21 18:15:43,915 INFO  [Log] Username text box found 
+2016-10-21 18:15:43,933 INFO  [Log] Username text box found 
+2016-10-21 18:15:43,953 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:15:43,960 INFO  [Log] Password text box found 
+2016-10-21 18:15:43,979 INFO  [Log] Password text box found 
+2016-10-21 18:15:43,996 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:15:44,005 INFO  [Log] Login button found 
+2016-10-21 18:15:44,030 INFO  [Log] Login button found 
+2016-10-21 18:15:44,708 INFO  [Log] Login button clicked 
+2016-10-21 18:15:44,928 INFO  [Log] My Account name element found 
+2016-10-21 18:15:44,941 INFO  [Log] Account name identification performed 
+2016-10-21 18:15:44,949 INFO  [Log] My Account name element found 
+2016-10-21 18:15:44,961 INFO  [Log] Account name identification performed 
+2016-10-21 18:15:44,974 INFO  [Log] Log out element found 
+2016-10-21 18:15:45,027 INFO  [Log] Log out element found 
+2016-10-21 18:15:45,053 INFO  [Log] Logout img clicked 
+2016-10-21 18:15:45,170 INFO  [Log] Username text box found 
+2016-10-21 18:15:45,196 INFO  [Log] Username text box found 
+2016-10-21 18:15:45,212 INFO  [Log] Username text box found 
+2016-10-21 18:15:45,230 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:15:45,237 INFO  [Log] Password text box found 
+2016-10-21 18:15:45,254 INFO  [Log] Password text box found 
+2016-10-21 18:15:45,271 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:15:45,277 INFO  [Log] Login button found 
+2016-10-21 18:15:45,306 INFO  [Log] Login button found 
+2016-10-21 18:15:45,326 INFO  [Log] Login button clicked 
+2016-10-21 18:15:45,534 INFO  [Log] My Account name element found 
+2016-10-21 18:15:45,545 INFO  [Log] Account name identification performed 
+2016-10-21 18:15:45,551 INFO  [Log] My Account name element found 
+2016-10-21 18:15:45,558 INFO  [Log] Account name identification performed 
+2016-10-21 18:15:45,573 INFO  [Log] Log out element found 
+2016-10-21 18:15:45,606 INFO  [Log] Log out element found 
+2016-10-21 18:15:45,626 INFO  [Log] Logout img clicked 
+2016-10-21 18:15:45,939 INFO  [Log] Username text box found 
+2016-10-21 18:15:45,963 INFO  [Log] Username text box found 
+2016-10-21 18:15:45,980 INFO  [Log] Username text box found 
+2016-10-21 18:15:46,001 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:15:46,008 INFO  [Log] Password text box found 
+2016-10-21 18:15:46,026 INFO  [Log] Password text box found 
+2016-10-21 18:15:46,045 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:15:46,052 INFO  [Log] Login button found 
+2016-10-21 18:15:46,075 INFO  [Log] Login button found 
+2016-10-21 18:15:46,092 INFO  [Log] Login button clicked 
+2016-10-21 18:15:46,300 INFO  [Log] My Account name element found 
+2016-10-21 18:15:46,311 INFO  [Log] Account name identification performed 
+2016-10-21 18:15:46,318 INFO  [Log] My Account name element found 
+2016-10-21 18:15:46,332 INFO  [Log] Account name identification performed 
+2016-10-21 18:15:46,341 INFO  [Log] Log out element found 
+2016-10-21 18:15:46,368 INFO  [Log] Log out element found 
+2016-10-21 18:15:46,385 INFO  [Log] Logout img clicked 
+2016-10-21 18:18:30,034 INFO  [Log] New driver instantiated 
+2016-10-21 18:18:30,079 INFO  [Log] Log In link element found 
+2016-10-21 18:18:30,120 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 18:18:30,667 INFO  [Log] header text button found 
+2016-10-21 18:18:30,688 INFO  [Log] Submit button found 
+2016-10-21 18:18:37,089 INFO  [Log] Username text box found 
+2016-10-21 18:18:37,115 INFO  [Log] Username text box found 
+2016-10-21 18:18:37,132 INFO  [Log] Username text box found 
+2016-10-21 18:18:37,148 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:18:37,156 INFO  [Log] Password text box found 
+2016-10-21 18:18:37,175 INFO  [Log] Password text box found 
+2016-10-21 18:18:37,188 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:18:37,199 INFO  [Log] Login button found 
+2016-10-21 18:18:37,223 INFO  [Log] Login button found 
+2016-10-21 18:18:37,260 INFO  [Log] Login button clicked 
+2016-10-21 18:18:37,305 INFO  [Log] Username text box found 
+2016-10-21 18:18:37,324 INFO  [Log] Username text box found 
+2016-10-21 18:18:37,340 INFO  [Log] Username text box found 
+2016-10-21 18:18:37,387 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:18:37,394 INFO  [Log] Password text box found 
+2016-10-21 18:18:37,411 INFO  [Log] Password text box found 
+2016-10-21 18:18:37,424 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:18:37,430 INFO  [Log] Login button found 
+2016-10-21 18:18:37,454 INFO  [Log] Login button found 
+2016-10-21 18:18:38,173 INFO  [Log] Login button clicked 
+2016-10-21 18:18:38,215 INFO  [Log] Username text box found 
+2016-10-21 18:18:38,246 INFO  [Log] Username text box found 
+2016-10-21 18:18:38,266 INFO  [Log] Username text box found 
+2016-10-21 18:18:38,280 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:18:38,287 INFO  [Log] Password text box found 
+2016-10-21 18:18:38,304 INFO  [Log] Password text box found 
+2016-10-21 18:18:38,324 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:18:38,331 INFO  [Log] Login button found 
+2016-10-21 18:18:38,355 INFO  [Log] Login button found 
+2016-10-21 18:18:38,378 INFO  [Log] Login button clicked 
+2016-10-21 18:18:38,416 INFO  [Log] Username text box found 
+2016-10-21 18:18:38,438 INFO  [Log] Username text box found 
+2016-10-21 18:18:38,456 INFO  [Log] Username text box found 
+2016-10-21 18:18:38,474 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:18:38,481 INFO  [Log] Password text box found 
+2016-10-21 18:18:38,501 INFO  [Log] Password text box found 
+2016-10-21 18:18:38,518 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:18:38,525 INFO  [Log] Login button found 
+2016-10-21 18:18:38,549 INFO  [Log] Login button found 
+2016-10-21 18:18:38,565 INFO  [Log] Login button clicked 
+2016-10-21 18:18:39,135 INFO  [Log] Username text box found 
+2016-10-21 18:18:39,154 INFO  [Log] Username text box found 
+2016-10-21 18:18:39,173 INFO  [Log] Username text box found 
+2016-10-21 18:18:39,204 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:18:39,211 INFO  [Log] Password text box found 
+2016-10-21 18:18:39,228 INFO  [Log] Password text box found 
+2016-10-21 18:18:39,245 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:18:39,252 INFO  [Log] Login button found 
+2016-10-21 18:18:39,276 INFO  [Log] Login button found 
+2016-10-21 18:18:39,296 INFO  [Log] Login button clicked 
+2016-10-21 18:18:39,975 INFO  [Log] Username text box found 
+2016-10-21 18:18:39,992 INFO  [Log] Username text box found 
+2016-10-21 18:18:40,012 INFO  [Log] Username text box found 
+2016-10-21 18:18:40,028 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:18:40,034 INFO  [Log] Password text box found 
+2016-10-21 18:18:40,048 INFO  [Log] Password text box found 
+2016-10-21 18:18:40,066 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:18:40,072 INFO  [Log] Login button found 
+2016-10-21 18:18:40,094 INFO  [Log] Login button found 
+2016-10-21 18:18:40,109 INFO  [Log] Login button clicked 
+2016-10-21 18:18:43,250 INFO  [Log] My Account name element found 
+2016-10-21 18:18:43,263 INFO  [Log] Account name identification performed 
+2016-10-21 18:18:43,285 INFO  [Log] My Account name element found 
+2016-10-21 18:18:43,293 INFO  [Log] Account name identification performed 
+2016-10-21 18:18:43,301 INFO  [Log] Log out element found 
+2016-10-21 18:18:43,322 INFO  [Log] Log out element found 
+2016-10-21 18:18:43,342 INFO  [Log] Logout img clicked 
+2016-10-21 18:18:43,467 INFO  [Log] Username text box found 
+2016-10-21 18:18:43,492 INFO  [Log] Username text box found 
+2016-10-21 18:18:43,508 INFO  [Log] Username text box found 
+2016-10-21 18:18:43,524 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:18:43,530 INFO  [Log] Password text box found 
+2016-10-21 18:18:43,551 INFO  [Log] Password text box found 
+2016-10-21 18:18:43,566 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:18:43,572 INFO  [Log] Login button found 
+2016-10-21 18:18:43,594 INFO  [Log] Login button found 
+2016-10-21 18:18:43,611 INFO  [Log] Login button clicked 
+2016-10-21 18:18:43,825 INFO  [Log] My Account name element found 
+2016-10-21 18:18:43,839 INFO  [Log] Account name identification performed 
+2016-10-21 18:18:43,845 INFO  [Log] My Account name element found 
+2016-10-21 18:18:43,852 INFO  [Log] Account name identification performed 
+2016-10-21 18:18:43,859 INFO  [Log] Log out element found 
+2016-10-21 18:18:43,878 INFO  [Log] Log out element found 
+2016-10-21 18:18:43,894 INFO  [Log] Logout img clicked 
+2016-10-21 18:18:44,005 INFO  [Log] Username text box found 
+2016-10-21 18:18:44,026 INFO  [Log] Username text box found 
+2016-10-21 18:18:44,040 INFO  [Log] Username text box found 
+2016-10-21 18:18:44,059 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:18:44,066 INFO  [Log] Password text box found 
+2016-10-21 18:18:44,082 INFO  [Log] Password text box found 
+2016-10-21 18:18:44,099 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:18:44,105 INFO  [Log] Login button found 
+2016-10-21 18:18:44,127 INFO  [Log] Login button found 
+2016-10-21 18:18:44,146 INFO  [Log] Login button clicked 
+2016-10-21 18:18:44,360 INFO  [Log] My Account name element found 
+2016-10-21 18:18:44,385 INFO  [Log] Account name identification performed 
+2016-10-21 18:18:44,397 INFO  [Log] My Account name element found 
+2016-10-21 18:18:44,412 INFO  [Log] Account name identification performed 
+2016-10-21 18:18:44,422 INFO  [Log] Log out element found 
+2016-10-21 18:18:44,446 INFO  [Log] Log out element found 
+2016-10-21 18:18:44,461 INFO  [Log] Logout img clicked 
+2016-10-21 18:21:52,442 INFO  [Log] New driver instantiated 
+2016-10-21 18:21:52,502 INFO  [Log] Log In link element found 
+2016-10-21 18:21:52,536 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 18:21:52,701 INFO  [Log] header text button found 
+2016-10-21 18:21:52,745 INFO  [Log] Submit button found 
+2016-10-21 18:21:59,031 INFO  [Log] Username text box found 
+2016-10-21 18:21:59,056 INFO  [Log] Username text box found 
+2016-10-21 18:21:59,072 INFO  [Log] Username text box found 
+2016-10-21 18:21:59,087 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:21:59,095 INFO  [Log] Password text box found 
+2016-10-21 18:21:59,116 INFO  [Log] Password text box found 
+2016-10-21 18:21:59,130 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:21:59,140 INFO  [Log] Login button found 
+2016-10-21 18:21:59,166 INFO  [Log] Login button found 
+2016-10-21 18:21:59,203 INFO  [Log] Login button clicked 
+2016-10-21 18:21:59,250 INFO  [Log] Username text box found 
+2016-10-21 18:21:59,269 INFO  [Log] Username text box found 
+2016-10-21 18:21:59,284 INFO  [Log] Username text box found 
+2016-10-21 18:21:59,301 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:21:59,307 INFO  [Log] Password text box found 
+2016-10-21 18:21:59,324 INFO  [Log] Password text box found 
+2016-10-21 18:21:59,336 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:21:59,343 INFO  [Log] Login button found 
+2016-10-21 18:21:59,367 INFO  [Log] Login button found 
+2016-10-21 18:22:00,060 INFO  [Log] Login button clicked 
+2016-10-21 18:22:00,132 INFO  [Log] Username text box found 
+2016-10-21 18:22:00,152 INFO  [Log] Username text box found 
+2016-10-21 18:22:00,168 INFO  [Log] Username text box found 
+2016-10-21 18:22:00,180 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:22:00,188 INFO  [Log] Password text box found 
+2016-10-21 18:22:00,204 INFO  [Log] Password text box found 
+2016-10-21 18:22:00,220 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:22:00,227 INFO  [Log] Login button found 
+2016-10-21 18:22:00,249 INFO  [Log] Login button found 
+2016-10-21 18:22:00,271 INFO  [Log] Login button clicked 
+2016-10-21 18:22:00,310 INFO  [Log] Username text box found 
+2016-10-21 18:22:00,329 INFO  [Log] Username text box found 
+2016-10-21 18:22:00,352 INFO  [Log] Username text box found 
+2016-10-21 18:22:00,373 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:22:00,387 INFO  [Log] Password text box found 
+2016-10-21 18:22:00,408 INFO  [Log] Password text box found 
+2016-10-21 18:22:00,440 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:22:00,448 INFO  [Log] Login button found 
+2016-10-21 18:22:00,485 INFO  [Log] Login button found 
+2016-10-21 18:22:00,503 INFO  [Log] Login button clicked 
+2016-10-21 18:22:01,079 INFO  [Log] Username text box found 
+2016-10-21 18:22:01,100 INFO  [Log] Username text box found 
+2016-10-21 18:22:01,117 INFO  [Log] Username text box found 
+2016-10-21 18:22:01,152 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:22:01,159 INFO  [Log] Password text box found 
+2016-10-21 18:22:01,174 INFO  [Log] Password text box found 
+2016-10-21 18:22:01,191 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:22:01,197 INFO  [Log] Login button found 
+2016-10-21 18:22:01,220 INFO  [Log] Login button found 
+2016-10-21 18:22:01,237 INFO  [Log] Login button clicked 
+2016-10-21 18:22:01,911 INFO  [Log] Username text box found 
+2016-10-21 18:22:01,928 INFO  [Log] Username text box found 
+2016-10-21 18:22:01,947 INFO  [Log] Username text box found 
+2016-10-21 18:22:01,964 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:22:01,970 INFO  [Log] Password text box found 
+2016-10-21 18:22:01,986 INFO  [Log] Password text box found 
+2016-10-21 18:22:02,003 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:22:02,011 INFO  [Log] Login button found 
+2016-10-21 18:22:02,034 INFO  [Log] Login button found 
+2016-10-21 18:22:02,049 INFO  [Log] Login button clicked 
+2016-10-21 18:22:02,258 INFO  [Log] My Account name element found 
+2016-10-21 18:22:02,272 INFO  [Log] Account name identification performed 
+2016-10-21 18:22:02,291 INFO  [Log] My Account name element found 
+2016-10-21 18:22:02,299 INFO  [Log] Account name identification performed 
+2016-10-21 18:22:02,305 INFO  [Log] Log out element found 
+2016-10-21 18:22:02,325 INFO  [Log] Log out element found 
+2016-10-21 18:22:02,337 INFO  [Log] Logout img clicked 
+2016-10-21 18:22:16,647 INFO  [Log] Username text box found 
+2016-10-21 18:22:16,675 INFO  [Log] Username text box found 
+2016-10-21 18:22:16,693 INFO  [Log] Username text box found 
+2016-10-21 18:22:16,715 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:22:16,722 INFO  [Log] Password text box found 
+2016-10-21 18:22:16,744 INFO  [Log] Password text box found 
+2016-10-21 18:22:16,762 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:22:16,771 INFO  [Log] Login button found 
+2016-10-21 18:22:16,798 INFO  [Log] Login button found 
+2016-10-21 18:22:16,818 INFO  [Log] Login button clicked 
+2016-10-21 18:22:17,026 INFO  [Log] My Account name element found 
+2016-10-21 18:22:17,037 INFO  [Log] Account name identification performed 
+2016-10-21 18:22:17,046 INFO  [Log] My Account name element found 
+2016-10-21 18:22:17,054 INFO  [Log] Account name identification performed 
+2016-10-21 18:22:17,067 INFO  [Log] Log out element found 
+2016-10-21 18:22:17,102 INFO  [Log] Log out element found 
+2016-10-21 18:22:17,124 INFO  [Log] Logout img clicked 
+2016-10-21 18:22:17,239 INFO  [Log] Username text box found 
+2016-10-21 18:22:17,274 INFO  [Log] Username text box found 
+2016-10-21 18:22:17,293 INFO  [Log] Username text box found 
+2016-10-21 18:22:17,310 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:22:17,316 INFO  [Log] Password text box found 
+2016-10-21 18:22:17,332 INFO  [Log] Password text box found 
+2016-10-21 18:22:17,349 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:22:17,355 INFO  [Log] Login button found 
+2016-10-21 18:22:17,378 INFO  [Log] Login button found 
+2016-10-21 18:22:17,396 INFO  [Log] Login button clicked 
+2016-10-21 18:22:17,611 INFO  [Log] My Account name element found 
+2016-10-21 18:22:17,625 INFO  [Log] Account name identification performed 
+2016-10-21 18:22:17,631 INFO  [Log] My Account name element found 
+2016-10-21 18:22:17,639 INFO  [Log] Account name identification performed 
+2016-10-21 18:22:17,645 INFO  [Log] Log out element found 
+2016-10-21 18:22:17,666 INFO  [Log] Log out element found 
+2016-10-21 18:22:17,683 INFO  [Log] Logout img clicked 
+2016-10-21 18:24:07,559 INFO  [Log] New driver instantiated 
+2016-10-21 18:24:07,623 INFO  [Log] Log In link element found 
+2016-10-21 18:24:07,649 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 18:24:08,734 INFO  [Log] header text button found 
+2016-10-21 18:24:08,760 INFO  [Log] Submit button found 
+2016-10-21 18:24:15,082 INFO  [Log] Username text box found 
+2016-10-21 18:24:15,107 INFO  [Log] Username text box found 
+2016-10-21 18:24:15,124 INFO  [Log] Username text box found 
+2016-10-21 18:24:15,139 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:24:15,146 INFO  [Log] Password text box found 
+2016-10-21 18:24:15,168 INFO  [Log] Password text box found 
+2016-10-21 18:24:15,179 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:24:15,190 INFO  [Log] Login button found 
+2016-10-21 18:24:15,217 INFO  [Log] Login button found 
+2016-10-21 18:24:15,257 INFO  [Log] Login button clicked 
+2016-10-21 18:24:15,303 INFO  [Log] Username text box found 
+2016-10-21 18:24:15,323 INFO  [Log] Username text box found 
+2016-10-21 18:24:15,339 INFO  [Log] Username text box found 
+2016-10-21 18:24:15,358 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:24:15,367 INFO  [Log] Password text box found 
+2016-10-21 18:24:15,386 INFO  [Log] Password text box found 
+2016-10-21 18:24:15,397 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:24:15,404 INFO  [Log] Login button found 
+2016-10-21 18:24:15,428 INFO  [Log] Login button found 
+2016-10-21 18:24:16,212 INFO  [Log] Login button clicked 
+2016-10-21 18:24:16,253 INFO  [Log] Username text box found 
+2016-10-21 18:24:16,275 INFO  [Log] Username text box found 
+2016-10-21 18:24:16,294 INFO  [Log] Username text box found 
+2016-10-21 18:24:16,309 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:24:16,315 INFO  [Log] Password text box found 
+2016-10-21 18:24:16,336 INFO  [Log] Password text box found 
+2016-10-21 18:24:16,353 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:24:16,360 INFO  [Log] Login button found 
+2016-10-21 18:24:16,383 INFO  [Log] Login button found 
+2016-10-21 18:24:16,409 INFO  [Log] Login button clicked 
+2016-10-21 18:24:16,444 INFO  [Log] Username text box found 
+2016-10-21 18:24:16,463 INFO  [Log] Username text box found 
+2016-10-21 18:24:16,483 INFO  [Log] Username text box found 
+2016-10-21 18:24:16,498 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:24:16,504 INFO  [Log] Password text box found 
+2016-10-21 18:24:16,522 INFO  [Log] Password text box found 
+2016-10-21 18:24:16,538 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:24:16,545 INFO  [Log] Login button found 
+2016-10-21 18:24:16,569 INFO  [Log] Login button found 
+2016-10-21 18:24:16,585 INFO  [Log] Login button clicked 
+2016-10-21 18:24:17,161 INFO  [Log] Username text box found 
+2016-10-21 18:24:17,188 INFO  [Log] Username text box found 
+2016-10-21 18:24:17,205 INFO  [Log] Username text box found 
+2016-10-21 18:24:17,235 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:24:17,240 INFO  [Log] Password text box found 
+2016-10-21 18:24:17,255 INFO  [Log] Password text box found 
+2016-10-21 18:24:17,269 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:24:17,274 INFO  [Log] Login button found 
+2016-10-21 18:24:17,300 INFO  [Log] Login button found 
+2016-10-21 18:24:17,316 INFO  [Log] Login button clicked 
+2016-10-21 18:24:18,002 INFO  [Log] Username text box found 
+2016-10-21 18:24:18,018 INFO  [Log] Username text box found 
+2016-10-21 18:24:18,035 INFO  [Log] Username text box found 
+2016-10-21 18:24:18,049 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:24:18,054 INFO  [Log] Password text box found 
+2016-10-21 18:24:18,069 INFO  [Log] Password text box found 
+2016-10-21 18:24:18,085 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:24:18,092 INFO  [Log] Login button found 
+2016-10-21 18:24:18,120 INFO  [Log] Login button found 
+2016-10-21 18:24:18,134 INFO  [Log] Login button clicked 
+2016-10-21 18:24:18,363 INFO  [Log] My Account name element found 
+2016-10-21 18:24:18,374 INFO  [Log] Account name identification performed 
+2016-10-21 18:24:18,381 INFO  [Log] My Account name element found 
+2016-10-21 18:24:18,394 INFO  [Log] Account name identification performed 
+2016-10-21 18:24:18,420 INFO  [Log] Log out element found 
+2016-10-21 18:24:18,443 INFO  [Log] Log out element found 
+2016-10-21 18:24:18,458 INFO  [Log] Logout img clicked 
+2016-10-21 18:24:18,571 INFO  [Log] Username text box found 
+2016-10-21 18:24:18,593 INFO  [Log] Username text box found 
+2016-10-21 18:24:18,606 INFO  [Log] Username text box found 
+2016-10-21 18:24:18,620 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:24:18,627 INFO  [Log] Password text box found 
+2016-10-21 18:24:18,645 INFO  [Log] Password text box found 
+2016-10-21 18:24:18,663 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:24:18,671 INFO  [Log] Login button found 
+2016-10-21 18:24:18,695 INFO  [Log] Login button found 
+2016-10-21 18:24:18,713 INFO  [Log] Login button clicked 
+2016-10-21 18:24:18,923 INFO  [Log] My Account name element found 
+2016-10-21 18:24:18,934 INFO  [Log] Account name identification performed 
+2016-10-21 18:24:18,940 INFO  [Log] My Account name element found 
+2016-10-21 18:24:18,949 INFO  [Log] Account name identification performed 
+2016-10-21 18:24:18,955 INFO  [Log] Log out element found 
+2016-10-21 18:24:18,976 INFO  [Log] Log out element found 
+2016-10-21 18:24:18,990 INFO  [Log] Logout img clicked 
+2016-10-21 18:24:19,103 INFO  [Log] Username text box found 
+2016-10-21 18:24:19,123 INFO  [Log] Username text box found 
+2016-10-21 18:24:19,135 INFO  [Log] Username text box found 
+2016-10-21 18:24:19,154 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:24:19,160 INFO  [Log] Password text box found 
+2016-10-21 18:24:19,177 INFO  [Log] Password text box found 
+2016-10-21 18:24:19,195 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:24:19,202 INFO  [Log] Login button found 
+2016-10-21 18:24:19,224 INFO  [Log] Login button found 
+2016-10-21 18:24:19,240 INFO  [Log] Login button clicked 
+2016-10-21 18:24:19,457 INFO  [Log] My Account name element found 
+2016-10-21 18:24:19,470 INFO  [Log] Account name identification performed 
+2016-10-21 18:24:19,476 INFO  [Log] My Account name element found 
+2016-10-21 18:24:19,486 INFO  [Log] Account name identification performed 
+2016-10-21 18:24:19,501 INFO  [Log] Log out element found 
+2016-10-21 18:24:19,527 INFO  [Log] Log out element found 
+2016-10-21 18:24:19,546 INFO  [Log] Logout img clicked 
+2016-10-21 18:24:19,624 INFO  [Log] Username text box found 
+2016-10-21 18:24:19,656 INFO  [Log] Username text box found 
+2016-10-21 18:24:19,674 INFO  [Log] Username text box found 
+2016-10-21 18:24:19,698 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:24:19,707 INFO  [Log] Password text box found 
+2016-10-21 18:24:19,721 INFO  [Log] Password text box found 
+2016-10-21 18:24:19,737 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:24:19,751 INFO  [Log] Login button found 
+2016-10-21 18:24:19,773 INFO  [Log] Login button found 
+2016-10-21 18:24:19,789 INFO  [Log] Login button clicked 
+2016-10-21 18:24:19,902 INFO  [Log] Attendance link element found 
+2016-10-21 18:25:15,408 INFO  [Log] Empgroup list element found 
+2016-10-21 18:25:15,550 INFO  [Log] EmpId list element found 
+2016-10-21 18:27:45,662 INFO  [Log] New driver instantiated 
+2016-10-21 18:27:45,684 INFO  [Log] Log In link element found 
+2016-10-21 18:27:45,707 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 18:27:46,783 INFO  [Log] header text button found 
+2016-10-21 18:27:46,875 INFO  [Log] Submit button found 
+2016-10-21 18:27:53,230 INFO  [Log] Username text box found 
+2016-10-21 18:27:53,256 INFO  [Log] Username text box found 
+2016-10-21 18:27:53,273 INFO  [Log] Username text box found 
+2016-10-21 18:27:53,287 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:27:53,293 INFO  [Log] Password text box found 
+2016-10-21 18:27:53,313 INFO  [Log] Password text box found 
+2016-10-21 18:27:53,327 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:27:53,338 INFO  [Log] Login button found 
+2016-10-21 18:27:53,363 INFO  [Log] Login button found 
+2016-10-21 18:27:53,398 INFO  [Log] Login button clicked 
+2016-10-21 18:27:53,443 INFO  [Log] Username text box found 
+2016-10-21 18:27:53,464 INFO  [Log] Username text box found 
+2016-10-21 18:27:53,482 INFO  [Log] Username text box found 
+2016-10-21 18:27:53,501 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:27:53,508 INFO  [Log] Password text box found 
+2016-10-21 18:27:53,526 INFO  [Log] Password text box found 
+2016-10-21 18:27:53,539 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:27:53,546 INFO  [Log] Login button found 
+2016-10-21 18:27:53,570 INFO  [Log] Login button found 
+2016-10-21 18:27:54,178 INFO  [Log] Login button clicked 
+2016-10-21 18:27:54,222 INFO  [Log] Username text box found 
+2016-10-21 18:27:54,248 INFO  [Log] Username text box found 
+2016-10-21 18:27:54,266 INFO  [Log] Username text box found 
+2016-10-21 18:27:54,280 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:27:54,286 INFO  [Log] Password text box found 
+2016-10-21 18:27:54,302 INFO  [Log] Password text box found 
+2016-10-21 18:27:54,320 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:27:54,326 INFO  [Log] Login button found 
+2016-10-21 18:27:54,352 INFO  [Log] Login button found 
+2016-10-21 18:27:54,375 INFO  [Log] Login button clicked 
+2016-10-21 18:27:54,412 INFO  [Log] Username text box found 
+2016-10-21 18:27:54,431 INFO  [Log] Username text box found 
+2016-10-21 18:27:54,447 INFO  [Log] Username text box found 
+2016-10-21 18:27:54,460 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:27:54,468 INFO  [Log] Password text box found 
+2016-10-21 18:27:54,485 INFO  [Log] Password text box found 
+2016-10-21 18:27:54,503 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:27:54,512 INFO  [Log] Login button found 
+2016-10-21 18:27:54,536 INFO  [Log] Login button found 
+2016-10-21 18:27:54,553 INFO  [Log] Login button clicked 
+2016-10-21 18:27:55,110 INFO  [Log] Username text box found 
+2016-10-21 18:27:55,133 INFO  [Log] Username text box found 
+2016-10-21 18:27:55,152 INFO  [Log] Username text box found 
+2016-10-21 18:27:55,186 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:27:55,191 INFO  [Log] Password text box found 
+2016-10-21 18:27:55,208 INFO  [Log] Password text box found 
+2016-10-21 18:27:55,222 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:27:55,228 INFO  [Log] Login button found 
+2016-10-21 18:27:55,251 INFO  [Log] Login button found 
+2016-10-21 18:27:55,270 INFO  [Log] Login button clicked 
+2016-10-21 18:27:55,894 INFO  [Log] Username text box found 
+2016-10-21 18:27:55,909 INFO  [Log] Username text box found 
+2016-10-21 18:27:55,925 INFO  [Log] Username text box found 
+2016-10-21 18:27:55,939 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:27:55,944 INFO  [Log] Password text box found 
+2016-10-21 18:27:55,960 INFO  [Log] Password text box found 
+2016-10-21 18:27:55,975 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:27:55,981 INFO  [Log] Login button found 
+2016-10-21 18:27:56,004 INFO  [Log] Login button found 
+2016-10-21 18:27:56,018 INFO  [Log] Login button clicked 
+2016-10-21 18:27:56,252 INFO  [Log] My Account name element found 
+2016-10-21 18:27:56,266 INFO  [Log] Account name identification performed 
+2016-10-21 18:27:56,296 INFO  [Log] My Account name element found 
+2016-10-21 18:27:56,306 INFO  [Log] Account name identification performed 
+2016-10-21 18:27:56,314 INFO  [Log] Log out element found 
+2016-10-21 18:27:56,335 INFO  [Log] Log out element found 
+2016-10-21 18:27:56,351 INFO  [Log] Logout img clicked 
+2016-10-21 18:27:56,463 INFO  [Log] Username text box found 
+2016-10-21 18:27:56,488 INFO  [Log] Username text box found 
+2016-10-21 18:27:56,501 INFO  [Log] Username text box found 
+2016-10-21 18:27:56,521 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:27:56,527 INFO  [Log] Password text box found 
+2016-10-21 18:27:56,543 INFO  [Log] Password text box found 
+2016-10-21 18:27:56,558 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:27:56,564 INFO  [Log] Login button found 
+2016-10-21 18:27:56,585 INFO  [Log] Login button found 
+2016-10-21 18:27:56,602 INFO  [Log] Login button clicked 
+2016-10-21 18:27:56,913 INFO  [Log] My Account name element found 
+2016-10-21 18:27:56,927 INFO  [Log] Account name identification performed 
+2016-10-21 18:27:56,933 INFO  [Log] My Account name element found 
+2016-10-21 18:27:56,948 INFO  [Log] Account name identification performed 
+2016-10-21 18:27:56,962 INFO  [Log] Log out element found 
+2016-10-21 18:27:56,989 INFO  [Log] Log out element found 
+2016-10-21 18:27:57,006 INFO  [Log] Logout img clicked 
+2016-10-21 18:27:57,120 INFO  [Log] Username text box found 
+2016-10-21 18:27:57,142 INFO  [Log] Username text box found 
+2016-10-21 18:27:57,156 INFO  [Log] Username text box found 
+2016-10-21 18:27:57,175 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:27:57,181 INFO  [Log] Password text box found 
+2016-10-21 18:27:57,200 INFO  [Log] Password text box found 
+2016-10-21 18:27:57,216 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:27:57,223 INFO  [Log] Login button found 
+2016-10-21 18:27:57,246 INFO  [Log] Login button found 
+2016-10-21 18:27:57,262 INFO  [Log] Login button clicked 
+2016-10-21 18:27:57,476 INFO  [Log] My Account name element found 
+2016-10-21 18:27:57,490 INFO  [Log] Account name identification performed 
+2016-10-21 18:27:57,498 INFO  [Log] My Account name element found 
+2016-10-21 18:27:57,508 INFO  [Log] Account name identification performed 
+2016-10-21 18:27:57,515 INFO  [Log] Log out element found 
+2016-10-21 18:27:57,534 INFO  [Log] Log out element found 
+2016-10-21 18:27:57,550 INFO  [Log] Logout img clicked 
+2016-10-21 18:27:57,721 INFO  [Log] Username text box found 
+2016-10-21 18:27:57,742 INFO  [Log] Username text box found 
+2016-10-21 18:27:57,755 INFO  [Log] Username text box found 
+2016-10-21 18:27:57,773 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:27:57,779 INFO  [Log] Password text box found 
+2016-10-21 18:27:57,794 INFO  [Log] Password text box found 
+2016-10-21 18:27:57,809 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:27:57,815 INFO  [Log] Login button found 
+2016-10-21 18:27:57,838 INFO  [Log] Login button found 
+2016-10-21 18:27:57,854 INFO  [Log] Login button clicked 
+2016-10-21 18:27:58,077 INFO  [Log] Attendance link element found 
+2016-10-21 18:27:58,100 INFO  [Log] Attendance link element found 
+2016-10-21 18:28:00,964 INFO  [Log] Empgroup list element found 
+2016-10-21 18:28:00,984 INFO  [Log] Empgroup list element found 
+2016-10-21 18:28:01,028 INFO  [Log] EmpId list element found 
+2016-10-21 18:33:20,688 INFO  [Log] New driver instantiated 
+2016-10-21 18:33:20,708 INFO  [Log] Log In link element found 
+2016-10-21 18:33:20,735 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 18:33:21,022 INFO  [Log] header text button found 
+2016-10-21 18:33:21,052 INFO  [Log] Submit button found 
+2016-10-21 18:33:27,587 INFO  [Log] Username text box found 
+2016-10-21 18:33:27,611 INFO  [Log] Username text box found 
+2016-10-21 18:33:27,626 INFO  [Log] Username text box found 
+2016-10-21 18:33:27,641 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:33:27,648 INFO  [Log] Password text box found 
+2016-10-21 18:33:27,669 INFO  [Log] Password text box found 
+2016-10-21 18:33:27,681 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:33:27,691 INFO  [Log] Login button found 
+2016-10-21 18:33:27,715 INFO  [Log] Login button found 
+2016-10-21 18:33:27,754 INFO  [Log] Login button clicked 
+2016-10-21 18:33:27,801 INFO  [Log] Username text box found 
+2016-10-21 18:33:27,821 INFO  [Log] Username text box found 
+2016-10-21 18:33:27,837 INFO  [Log] Username text box found 
+2016-10-21 18:33:27,855 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:33:27,862 INFO  [Log] Password text box found 
+2016-10-21 18:33:27,879 INFO  [Log] Password text box found 
+2016-10-21 18:33:27,893 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:33:27,900 INFO  [Log] Login button found 
+2016-10-21 18:33:27,924 INFO  [Log] Login button found 
+2016-10-21 18:33:28,501 INFO  [Log] Login button clicked 
+2016-10-21 18:33:28,544 INFO  [Log] Username text box found 
+2016-10-21 18:33:28,582 INFO  [Log] Username text box found 
+2016-10-21 18:33:28,607 INFO  [Log] Username text box found 
+2016-10-21 18:33:28,620 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:33:28,627 INFO  [Log] Password text box found 
+2016-10-21 18:33:28,645 INFO  [Log] Password text box found 
+2016-10-21 18:33:28,663 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:33:28,671 INFO  [Log] Login button found 
+2016-10-21 18:33:28,695 INFO  [Log] Login button found 
+2016-10-21 18:33:28,731 INFO  [Log] Login button clicked 
+2016-10-21 18:33:28,766 INFO  [Log] Username text box found 
+2016-10-21 18:33:28,786 INFO  [Log] Username text box found 
+2016-10-21 18:33:28,803 INFO  [Log] Username text box found 
+2016-10-21 18:33:28,820 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:33:28,827 INFO  [Log] Password text box found 
+2016-10-21 18:33:28,846 INFO  [Log] Password text box found 
+2016-10-21 18:33:28,865 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:33:28,874 INFO  [Log] Login button found 
+2016-10-21 18:33:28,898 INFO  [Log] Login button found 
+2016-10-21 18:33:28,916 INFO  [Log] Login button clicked 
+2016-10-21 18:33:29,477 INFO  [Log] Username text box found 
+2016-10-21 18:33:29,500 INFO  [Log] Username text box found 
+2016-10-21 18:33:29,518 INFO  [Log] Username text box found 
+2016-10-21 18:33:29,550 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:33:29,556 INFO  [Log] Password text box found 
+2016-10-21 18:33:29,572 INFO  [Log] Password text box found 
+2016-10-21 18:33:29,591 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:33:29,597 INFO  [Log] Login button found 
+2016-10-21 18:33:29,620 INFO  [Log] Login button found 
+2016-10-21 18:33:29,637 INFO  [Log] Login button clicked 
+2016-10-21 18:33:30,299 INFO  [Log] Username text box found 
+2016-10-21 18:33:30,316 INFO  [Log] Username text box found 
+2016-10-21 18:33:30,332 INFO  [Log] Username text box found 
+2016-10-21 18:33:30,346 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:33:30,353 INFO  [Log] Password text box found 
+2016-10-21 18:33:30,368 INFO  [Log] Password text box found 
+2016-10-21 18:33:30,382 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:33:30,388 INFO  [Log] Login button found 
+2016-10-21 18:33:30,411 INFO  [Log] Login button found 
+2016-10-21 18:33:30,427 INFO  [Log] Login button clicked 
+2016-10-21 18:33:30,640 INFO  [Log] My Account name element found 
+2016-10-21 18:33:30,661 INFO  [Log] Account name identification performed 
+2016-10-21 18:33:30,668 INFO  [Log] My Account name element found 
+2016-10-21 18:33:30,675 INFO  [Log] Account name identification performed 
+2016-10-21 18:33:30,682 INFO  [Log] Log out element found 
+2016-10-21 18:33:30,721 INFO  [Log] Log out element found 
+2016-10-21 18:33:30,741 INFO  [Log] Logout img clicked 
+2016-10-21 18:33:30,856 INFO  [Log] Username text box found 
+2016-10-21 18:33:30,877 INFO  [Log] Username text box found 
+2016-10-21 18:33:30,890 INFO  [Log] Username text box found 
+2016-10-21 18:33:30,909 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:33:30,915 INFO  [Log] Password text box found 
+2016-10-21 18:33:30,931 INFO  [Log] Password text box found 
+2016-10-21 18:33:30,949 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:33:30,954 INFO  [Log] Login button found 
+2016-10-21 18:33:30,975 INFO  [Log] Login button found 
+2016-10-21 18:33:30,993 INFO  [Log] Login button clicked 
+2016-10-21 18:33:31,199 INFO  [Log] My Account name element found 
+2016-10-21 18:33:31,220 INFO  [Log] Account name identification performed 
+2016-10-21 18:33:31,228 INFO  [Log] My Account name element found 
+2016-10-21 18:33:31,240 INFO  [Log] Account name identification performed 
+2016-10-21 18:33:31,245 INFO  [Log] Log out element found 
+2016-10-21 18:33:31,270 INFO  [Log] Log out element found 
+2016-10-21 18:33:31,287 INFO  [Log] Logout img clicked 
+2016-10-21 18:33:31,396 INFO  [Log] Username text box found 
+2016-10-21 18:33:31,420 INFO  [Log] Username text box found 
+2016-10-21 18:33:31,435 INFO  [Log] Username text box found 
+2016-10-21 18:33:31,454 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:33:31,460 INFO  [Log] Password text box found 
+2016-10-21 18:33:31,476 INFO  [Log] Password text box found 
+2016-10-21 18:33:31,495 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:33:31,502 INFO  [Log] Login button found 
+2016-10-21 18:33:31,527 INFO  [Log] Login button found 
+2016-10-21 18:33:31,544 INFO  [Log] Login button clicked 
+2016-10-21 18:33:31,755 INFO  [Log] My Account name element found 
+2016-10-21 18:33:31,771 INFO  [Log] Account name identification performed 
+2016-10-21 18:33:31,778 INFO  [Log] My Account name element found 
+2016-10-21 18:33:31,787 INFO  [Log] Account name identification performed 
+2016-10-21 18:33:31,793 INFO  [Log] Log out element found 
+2016-10-21 18:33:31,811 INFO  [Log] Log out element found 
+2016-10-21 18:33:31,827 INFO  [Log] Logout img clicked 
+2016-10-21 18:33:32,003 INFO  [Log] Username text box found 
+2016-10-21 18:33:32,027 INFO  [Log] Username text box found 
+2016-10-21 18:33:32,041 INFO  [Log] Username text box found 
+2016-10-21 18:33:32,061 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:33:32,070 INFO  [Log] Password text box found 
+2016-10-21 18:33:32,088 INFO  [Log] Password text box found 
+2016-10-21 18:33:32,102 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:33:32,108 INFO  [Log] Login button found 
+2016-10-21 18:33:32,129 INFO  [Log] Login button found 
+2016-10-21 18:33:32,148 INFO  [Log] Login button clicked 
+2016-10-21 18:33:32,361 INFO  [Log] Attendance link element found 
+2016-10-21 18:33:32,384 INFO  [Log] Attendance link element found 
+2016-10-21 18:34:16,664 INFO  [Log] Empgroup list element found 
+2016-10-21 18:34:16,690 INFO  [Log] Empgroup list element found 
+2016-10-21 18:34:16,760 INFO  [Log] EmpId list element found 
+2016-10-21 18:37:41,296 INFO  [Log] New driver instantiated 
+2016-10-21 18:37:41,320 INFO  [Log] Log In link element found 
+2016-10-21 18:37:41,346 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 18:37:41,503 INFO  [Log] header text button found 
+2016-10-21 18:37:41,550 INFO  [Log] Submit button found 
+2016-10-21 18:37:47,980 INFO  [Log] Username text box found 
+2016-10-21 18:37:48,007 INFO  [Log] Username text box found 
+2016-10-21 18:37:48,024 INFO  [Log] Username text box found 
+2016-10-21 18:37:48,047 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:37:48,055 INFO  [Log] Password text box found 
+2016-10-21 18:37:48,077 INFO  [Log] Password text box found 
+2016-10-21 18:37:48,093 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:37:48,103 INFO  [Log] Login button found 
+2016-10-21 18:37:48,129 INFO  [Log] Login button found 
+2016-10-21 18:37:49,113 INFO  [Log] Login button clicked 
+2016-10-21 18:37:49,360 INFO  [Log] Attendance link element found 
+2016-10-21 18:37:49,395 INFO  [Log] Attendance link element found 
+2016-10-21 18:37:52,256 INFO  [Log] Empgroup list element found 
+2016-10-21 18:37:52,278 INFO  [Log] Empgroup list element found 
+2016-10-21 18:37:52,330 INFO  [Log] EmpId list element found 
+2016-10-21 18:37:52,364 INFO  [Log] EmpId list element found 
+2016-10-21 18:37:52,413 INFO  [Log] StartDt element found 
+2016-10-21 18:37:52,513 INFO  [Log] EmpId list element found 
+2016-10-21 18:37:52,615 INFO  [Log] EndDt element found 
+2016-10-21 18:37:52,698 INFO  [Log] Log out element found 
+2016-10-21 18:39:25,372 INFO  [Log] New driver instantiated 
+2016-10-21 18:39:25,393 INFO  [Log] Log In link element found 
+2016-10-21 18:39:25,418 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 18:39:25,967 INFO  [Log] header text button found 
+2016-10-21 18:39:25,988 INFO  [Log] Submit button found 
+2016-10-21 18:39:32,325 INFO  [Log] Username text box found 
+2016-10-21 18:39:32,351 INFO  [Log] Username text box found 
+2016-10-21 18:39:32,369 INFO  [Log] Username text box found 
+2016-10-21 18:39:32,390 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:39:32,397 INFO  [Log] Password text box found 
+2016-10-21 18:39:32,417 INFO  [Log] Password text box found 
+2016-10-21 18:39:32,433 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:39:32,444 INFO  [Log] Login button found 
+2016-10-21 18:39:32,470 INFO  [Log] Login button found 
+2016-10-21 18:39:33,107 INFO  [Log] Login button clicked 
+2016-10-21 18:39:34,387 INFO  [Log] My Account name element found 
+2016-10-21 18:39:34,401 INFO  [Log] Account name identification performed 
+2016-10-21 18:39:34,409 INFO  [Log] My Account name element found 
+2016-10-21 18:39:34,418 INFO  [Log] Account name identification performed 
+2016-10-21 18:39:34,426 INFO  [Log] Log out element found 
+2016-10-21 18:39:34,454 INFO  [Log] Log out element found 
+2016-10-21 18:39:34,469 INFO  [Log] Logout img clicked 
+2016-10-21 18:40:07,127 INFO  [Log] Username text box found 
+2016-10-21 18:40:07,166 INFO  [Log] Username text box found 
+2016-10-21 18:40:07,188 INFO  [Log] Username text box found 
+2016-10-21 18:40:07,212 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:40:07,221 INFO  [Log] Password text box found 
+2016-10-21 18:40:07,238 INFO  [Log] Password text box found 
+2016-10-21 18:40:07,253 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:40:07,263 INFO  [Log] Login button found 
+2016-10-21 18:40:07,293 INFO  [Log] Login button found 
+2016-10-21 18:40:07,310 INFO  [Log] Login button clicked 
+2016-10-21 18:40:07,531 INFO  [Log] My Account name element found 
+2016-10-21 18:40:07,544 INFO  [Log] Account name identification performed 
+2016-10-21 18:40:07,554 INFO  [Log] My Account name element found 
+2016-10-21 18:40:07,564 INFO  [Log] Account name identification performed 
+2016-10-21 18:40:07,573 INFO  [Log] Log out element found 
+2016-10-21 18:40:07,593 INFO  [Log] Log out element found 
+2016-10-21 18:40:07,609 INFO  [Log] Logout img clicked 
+2016-10-21 18:40:07,720 INFO  [Log] Username text box found 
+2016-10-21 18:40:07,744 INFO  [Log] Username text box found 
+2016-10-21 18:40:07,761 INFO  [Log] Username text box found 
+2016-10-21 18:40:07,781 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:40:07,787 INFO  [Log] Password text box found 
+2016-10-21 18:40:07,804 INFO  [Log] Password text box found 
+2016-10-21 18:40:07,820 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:40:07,827 INFO  [Log] Login button found 
+2016-10-21 18:40:07,852 INFO  [Log] Login button found 
+2016-10-21 18:40:07,868 INFO  [Log] Login button clicked 
+2016-10-21 18:40:08,084 INFO  [Log] My Account name element found 
+2016-10-21 18:40:08,099 INFO  [Log] Account name identification performed 
+2016-10-21 18:40:08,105 INFO  [Log] My Account name element found 
+2016-10-21 18:40:08,114 INFO  [Log] Account name identification performed 
+2016-10-21 18:40:08,130 INFO  [Log] Log out element found 
+2016-10-21 18:40:08,156 INFO  [Log] Log out element found 
+2016-10-21 18:40:08,181 INFO  [Log] Logout img clicked 
+2016-10-21 18:40:08,304 INFO  [Log] Username text box found 
+2016-10-21 18:40:08,332 INFO  [Log] Username text box found 
+2016-10-21 18:40:08,347 INFO  [Log] Username text box found 
+2016-10-21 18:40:08,362 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:40:08,368 INFO  [Log] Password text box found 
+2016-10-21 18:40:08,384 INFO  [Log] Password text box found 
+2016-10-21 18:40:08,398 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:40:08,404 INFO  [Log] Login button found 
+2016-10-21 18:40:08,426 INFO  [Log] Login button found 
+2016-10-21 18:40:08,444 INFO  [Log] Login button clicked 
+2016-10-21 18:40:08,667 INFO  [Log] Attendance link element found 
+2016-10-21 18:40:08,687 INFO  [Log] Attendance link element found 
+2016-10-21 18:40:11,633 INFO  [Log] Empgroup list element found 
+2016-10-21 18:40:11,661 INFO  [Log] Empgroup list element found 
+2016-10-21 18:40:11,712 INFO  [Log] EmpId list element found 
+2016-10-21 18:40:11,730 INFO  [Log] EmpId list element found 
+2016-10-21 18:42:50,449 INFO  [Log] New driver instantiated 
+2016-10-21 18:42:50,497 INFO  [Log] Log In link element found 
+2016-10-21 18:42:50,522 INFO  [Log] Click action performed on Landing Page 
+2016-10-21 18:42:51,118 INFO  [Log] header text button found 
+2016-10-21 18:42:51,147 INFO  [Log] Submit button found 
+2016-10-21 18:42:57,511 INFO  [Log] Username text box found 
+2016-10-21 18:42:57,540 INFO  [Log] Username text box found 
+2016-10-21 18:42:57,557 INFO  [Log] Username text box found 
+2016-10-21 18:42:57,572 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:42:57,578 INFO  [Log] Password text box found 
+2016-10-21 18:42:57,597 INFO  [Log] Password text box found 
+2016-10-21 18:42:57,610 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:42:57,620 INFO  [Log] Login button found 
+2016-10-21 18:42:57,643 INFO  [Log] Login button found 
+2016-10-21 18:42:57,677 INFO  [Log] Login button clicked 
+2016-10-21 18:42:57,722 INFO  [Log] Username text box found 
+2016-10-21 18:42:57,740 INFO  [Log] Username text box found 
+2016-10-21 18:42:57,755 INFO  [Log] Username text box found 
+2016-10-21 18:42:57,774 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:42:57,782 INFO  [Log] Password text box found 
+2016-10-21 18:42:57,800 INFO  [Log] Password text box found 
+2016-10-21 18:42:57,814 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:42:57,821 INFO  [Log] Login button found 
+2016-10-21 18:42:57,844 INFO  [Log] Login button found 
+2016-10-21 18:42:58,409 INFO  [Log] Login button clicked 
+2016-10-21 18:42:58,456 INFO  [Log] Username text box found 
+2016-10-21 18:42:58,482 INFO  [Log] Username text box found 
+2016-10-21 18:42:58,503 INFO  [Log] Username text box found 
+2016-10-21 18:42:58,517 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:42:58,523 INFO  [Log] Password text box found 
+2016-10-21 18:42:58,540 INFO  [Log] Password text box found 
+2016-10-21 18:42:58,558 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:42:58,566 INFO  [Log] Login button found 
+2016-10-21 18:42:58,589 INFO  [Log] Login button found 
+2016-10-21 18:42:58,621 INFO  [Log] Login button clicked 
+2016-10-21 18:42:58,657 INFO  [Log] Username text box found 
+2016-10-21 18:42:58,676 INFO  [Log] Username text box found 
+2016-10-21 18:42:58,693 INFO  [Log] Username text box found 
+2016-10-21 18:42:58,710 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:42:58,718 INFO  [Log] Password text box found 
+2016-10-21 18:42:58,738 INFO  [Log] Password text box found 
+2016-10-21 18:42:58,756 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:42:58,763 INFO  [Log] Login button found 
+2016-10-21 18:42:58,787 INFO  [Log] Login button found 
+2016-10-21 18:42:58,804 INFO  [Log] Login button clicked 
+2016-10-21 18:42:59,377 INFO  [Log] Username text box found 
+2016-10-21 18:42:59,395 INFO  [Log] Username text box found 
+2016-10-21 18:42:59,414 INFO  [Log] Username text box found 
+2016-10-21 18:42:59,445 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:42:59,452 INFO  [Log] Password text box found 
+2016-10-21 18:42:59,470 INFO  [Log] Password text box found 
+2016-10-21 18:42:59,488 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:42:59,495 INFO  [Log] Login button found 
+2016-10-21 18:42:59,519 INFO  [Log] Login button found 
+2016-10-21 18:42:59,538 INFO  [Log] Login button clicked 
+2016-10-21 18:43:00,193 INFO  [Log] Username text box found 
+2016-10-21 18:43:00,209 INFO  [Log] Username text box found 
+2016-10-21 18:43:00,229 INFO  [Log] Username text box found 
+2016-10-21 18:43:00,242 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:43:00,249 INFO  [Log] Password text box found 
+2016-10-21 18:43:00,270 INFO  [Log] Password text box found 
+2016-10-21 18:43:00,285 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:43:00,292 INFO  [Log] Login button found 
+2016-10-21 18:43:00,313 INFO  [Log] Login button found 
+2016-10-21 18:43:00,330 INFO  [Log] Login button clicked 
+2016-10-21 18:43:00,558 INFO  [Log] My Account name element found 
+2016-10-21 18:43:00,601 INFO  [Log] Account name identification performed 
+2016-10-21 18:43:00,610 INFO  [Log] My Account name element found 
+2016-10-21 18:43:00,634 INFO  [Log] Account name identification performed 
+2016-10-21 18:43:00,642 INFO  [Log] Log out element found 
+2016-10-21 18:43:00,665 INFO  [Log] Log out element found 
+2016-10-21 18:43:00,679 INFO  [Log] Logout img clicked 
+2016-10-21 18:43:00,791 INFO  [Log] Username text box found 
+2016-10-21 18:43:00,812 INFO  [Log] Username text box found 
+2016-10-21 18:43:00,825 INFO  [Log] Username text box found 
+2016-10-21 18:43:00,845 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:43:00,852 INFO  [Log] Password text box found 
+2016-10-21 18:43:00,868 INFO  [Log] Password text box found 
+2016-10-21 18:43:00,883 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:43:00,889 INFO  [Log] Login button found 
+2016-10-21 18:43:00,910 INFO  [Log] Login button found 
+2016-10-21 18:43:00,929 INFO  [Log] Login button clicked 
+2016-10-21 18:43:01,138 INFO  [Log] My Account name element found 
+2016-10-21 18:43:01,154 INFO  [Log] Account name identification performed 
+2016-10-21 18:43:01,167 INFO  [Log] My Account name element found 
+2016-10-21 18:43:01,174 INFO  [Log] Account name identification performed 
+2016-10-21 18:43:01,183 INFO  [Log] Log out element found 
+2016-10-21 18:43:01,204 INFO  [Log] Log out element found 
+2016-10-21 18:43:01,222 INFO  [Log] Logout img clicked 
+2016-10-21 18:43:01,437 INFO  [Log] Username text box found 
+2016-10-21 18:43:01,460 INFO  [Log] Username text box found 
+2016-10-21 18:43:01,475 INFO  [Log] Username text box found 
+2016-10-21 18:43:01,495 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:43:01,502 INFO  [Log] Password text box found 
+2016-10-21 18:43:01,520 INFO  [Log] Password text box found 
+2016-10-21 18:43:01,536 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:43:01,542 INFO  [Log] Login button found 
+2016-10-21 18:43:01,564 INFO  [Log] Login button found 
+2016-10-21 18:43:01,582 INFO  [Log] Login button clicked 
+2016-10-21 18:43:02,192 INFO  [Log] My Account name element found 
+2016-10-21 18:43:02,203 INFO  [Log] Account name identification performed 
+2016-10-21 18:43:02,210 INFO  [Log] My Account name element found 
+2016-10-21 18:43:02,217 INFO  [Log] Account name identification performed 
+2016-10-21 18:43:02,224 INFO  [Log] Log out element found 
+2016-10-21 18:43:02,241 INFO  [Log] Log out element found 
+2016-10-21 18:43:02,258 INFO  [Log] Logout img clicked 
+2016-10-21 18:43:02,333 INFO  [Log] Username text box found 
+2016-10-21 18:43:02,362 INFO  [Log] Username text box found 
+2016-10-21 18:43:02,383 INFO  [Log] Username text box found 
+2016-10-21 18:43:02,401 INFO  [Log] Username entered in the Username text box 
+2016-10-21 18:43:02,408 INFO  [Log] Password text box found 
+2016-10-21 18:43:02,425 INFO  [Log] Password text box found 
+2016-10-21 18:43:02,443 INFO  [Log] Password entered in the Password text box 
+2016-10-21 18:43:02,452 INFO  [Log] Login button found 
+2016-10-21 18:43:02,472 INFO  [Log] Login button found 
+2016-10-21 18:43:02,489 INFO  [Log] Login button clicked 
+2016-10-21 18:43:02,604 INFO  [Log] Attendance link element found 
+2016-10-21 18:43:02,626 INFO  [Log] Attendance link element found 
+2016-10-24 15:43:35,154 INFO  [Log] New driver instantiated 
+2016-10-24 15:43:35,266 INFO  [Log] Log In link element found 
+2016-10-24 15:43:35,307 INFO  [Log] Click action performed on Landing Page 
+2016-10-24 15:43:35,864 INFO  [Log] header text button found 
+2016-10-24 15:43:35,886 INFO  [Log] Submit button found 
+2016-10-24 15:43:42,346 INFO  [Log] Username text box found 
+2016-10-24 15:43:42,403 INFO  [Log] Password text box found 
+2016-10-24 15:43:42,476 INFO  [Log] Login button found 
+2016-10-24 15:59:10,899 INFO  [Log] New driver instantiated 
+2016-10-24 15:59:10,924 INFO  [Log] Log In link element found 
+2016-10-24 15:59:10,951 INFO  [Log] Click action performed on Landing Page 
+2016-10-24 15:59:11,115 INFO  [Log] header text button found 
+2016-10-24 15:59:11,138 INFO  [Log] Submit button found 
+2016-10-24 15:59:17,380 INFO  [Log] Username text box found 
+2016-10-24 15:59:17,427 INFO  [Log] Password text box found 
+2016-10-24 15:59:17,456 INFO  [Log] Login button found 
+2016-10-24 16:04:26,678 INFO  [Log] New driver instantiated 
+2016-10-24 16:04:26,716 INFO  [Log] Log In link element found 
+2016-10-24 16:04:26,742 INFO  [Log] Click action performed on Landing Page 
+2016-10-24 16:04:28,394 INFO  [Log] header text button found 
+2016-10-24 16:04:28,418 INFO  [Log] Submit button found 
+2016-10-24 16:04:34,576 INFO  [Log] Username text box found 
+2016-10-24 16:04:34,612 INFO  [Log] Password text box found 
+2016-10-24 16:04:34,643 INFO  [Log] Login button found 
+2016-10-24 16:09:12,873 INFO  [Log] New driver instantiated 
+2016-10-24 16:09:12,971 INFO  [Log] Log In link element found 
+2016-10-24 16:09:13,042 INFO  [Log] Click action performed on Landing Page 
+2016-10-24 16:09:14,244 INFO  [Log] header text button found 
+2016-10-24 16:09:14,274 INFO  [Log] Submit button found 
+2016-10-24 16:09:20,456 INFO  [Log] Username text box found 
+2016-10-24 16:09:20,519 INFO  [Log] Password text box found 
+2016-10-24 16:09:20,580 INFO  [Log] Login button found 

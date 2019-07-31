@@ -34,6 +34,8 @@ public class ImageComparison {
     File screenshot = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
             Thread.sleep(3000);
             FileUtils.copyFile(screenshot, new File(img));
+            
+            System.out.println("Needs to be updated");
 	}	
 	
 	

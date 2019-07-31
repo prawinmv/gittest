@@ -21,6 +21,8 @@ public class Constant {
             
     //IMAGE SERVER    
     public static final String imgServer = "http://acxiomoffshore.listertech.in/shift_mgmt/";
+    
+    //System.out.println("Constant file Fix");
 
 
     

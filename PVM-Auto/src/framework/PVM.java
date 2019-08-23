@@ -38,6 +38,7 @@ static File dir1,dir2;
 @BeforeClass()
 public void setUp() throws Exception {
 System.setProperty("webdriver.chrome.driver", "Browsers/chromedriver.exe");
+System.out.println("Test Git");
 //ChromeOptions options = new ChromeOptions();
 
 Map<String, Object> prefs = new HashMap<String, Object>();

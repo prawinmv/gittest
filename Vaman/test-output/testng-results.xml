@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20117" started-at="2016-10-24T10:39:04Z" finished-at="2016-10-24T10:39:24Z">
+  <suite name="Default suite" duration-ms="1000" started-at="2020-03-24T12:54:26 IST" finished-at="2020-03-24T12:54:27 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20117" started-at="2016-10-24T10:39:04Z" finished-at="2016-10-24T10:39:24Z">
-      <class name="framework.PageObjectModel">
-        <test-method status="PASS" signature="browserSetUp()[pri:0, instance:framework.PageObjectModel@d8355a8]" name="browserSetUp" is-config="true" duration-ms="8079" started-at="2016-10-24T16:09:04Z" finished-at="2016-10-24T16:09:12Z">
+    <test name="Default test" duration-ms="1000" started-at="2020-03-24T12:54:26 IST" finished-at="2020-03-24T12:54:27 IST">
+      <class name="framework.Dataprovider">
+        <test-method status="PASS" signature="data()[pri:0, instance:framework.Dataprovider@7a69b07]" name="data" duration-ms="623" started-at="2020-03-24T12:54:26 IST" finished-at="2020-03-24T12:54:27 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- browserSetUp -->
-        <test-method status="PASS" signature="loginPage_AssetVerification()[pri:0, instance:framework.PageObjectModel@d8355a8]" name="loginPage_AssetVerification" duration-ms="11990" started-at="2016-10-24T16:09:12Z" finished-at="2016-10-24T16:09:24Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginPage_AssetVerification -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:framework.PageObjectModel@d8355a8]" name="tearDown" is-config="true" duration-ms="1" started-at="2016-10-24T16:09:24Z" finished-at="2016-10-24T16:09:24Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- framework.PageObjectModel -->
+        </test-method> <!-- data -->
+      </class> <!-- framework.Dataprovider -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

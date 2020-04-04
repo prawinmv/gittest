@@ -1,0 +1,77 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Test CRUD methods in the Rest API",
+    "children" : [ {
+      "name" : "Data Upload to a Web service",
+      "children" : [ {
+        "name" : "Data Upload to a Web service",
+        "uid" : "3040d85d8d7b513b",
+        "parentUid" : "abaaad5ed0b42dd53cf80efb6d43b6b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1585947848878,
+          "stop" : 1585947854937,
+          "duration" : 6059
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "abaaad5ed0b42dd53cf80efb6d43b6b2"
+    }, {
+      "name" : "Data update for an existing record",
+      "children" : [ {
+        "name" : "Data update for an existing record",
+        "uid" : "cbf0721cb4ee5dcb",
+        "parentUid" : "b17503706280b7d90dc8ddd9868dd678",
+        "status" : "failed",
+        "time" : {
+          "start" : 1585947854966,
+          "stop" : 1585947855066,
+          "duration" : 100
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b17503706280b7d90dc8ddd9868dd678"
+    }, {
+      "name" : "Data retrieval from a Web service",
+      "children" : [ {
+        "name" : "Data retrieval from a Web service",
+        "uid" : "5d1c9fc92b27e8fc",
+        "parentUid" : "1d59a53be7a8d1f3131b465c9c20fe70",
+        "status" : "broken",
+        "time" : {
+          "start" : 1585947855067,
+          "stop" : 1585947855112,
+          "duration" : 45
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1d59a53be7a8d1f3131b465c9c20fe70"
+    }, {
+      "name" : "Delete an existing record",
+      "children" : [ {
+        "name" : "Delete an existing record",
+        "uid" : "d9e3650e3f4bd793",
+        "parentUid" : "1c5bb7fd48363dc83cbcd373bd782727",
+        "status" : "passed",
+        "time" : {
+          "start" : 1585947855113,
+          "stop" : 1585947855197,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1c5bb7fd48363dc83cbcd373bd782727"
+    } ],
+    "uid" : "97e1e6cfab5477f8c66de74524da7697"
+  } ]
+}

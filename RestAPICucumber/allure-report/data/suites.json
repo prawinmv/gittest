@@ -1,0 +1,61 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Test CRUD methods in the Rest API",
+    "children" : [ {
+      "name" : "Data Upload to a Web service",
+      "uid" : "3040d85d8d7b513b",
+      "parentUid" : "ddd54cc8032f86e493d395b6c55b9176",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585947848878,
+        "stop" : 1585947854937,
+        "duration" : 6059
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Data update for an existing record",
+      "uid" : "cbf0721cb4ee5dcb",
+      "parentUid" : "ddd54cc8032f86e493d395b6c55b9176",
+      "status" : "failed",
+      "time" : {
+        "start" : 1585947854966,
+        "stop" : 1585947855066,
+        "duration" : 100
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Data retrieval from a Web service",
+      "uid" : "5d1c9fc92b27e8fc",
+      "parentUid" : "ddd54cc8032f86e493d395b6c55b9176",
+      "status" : "broken",
+      "time" : {
+        "start" : 1585947855067,
+        "stop" : 1585947855112,
+        "duration" : 45
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Delete an existing record",
+      "uid" : "d9e3650e3f4bd793",
+      "parentUid" : "ddd54cc8032f86e493d395b6c55b9176",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585947855113,
+        "stop" : 1585947855197,
+        "duration" : 84
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ddd54cc8032f86e493d395b6c55b9176"
+  } ]
+}

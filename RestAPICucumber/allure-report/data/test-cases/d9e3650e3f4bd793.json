@@ -1,0 +1,119 @@
+{
+  "uid" : "d9e3650e3f4bd793",
+  "name" : "Delete an existing record",
+  "fullName" : "Test CRUD methods in the Rest API.Delete an existing record",
+  "historyId" : "e443c45ca6602adf554c1247a00e5534",
+  "time" : {
+    "start" : 1585947855113,
+    "stop" : 1585947855197,
+    "duration" : 84
+  },
+  "description" : "null\n\nnull",
+  "descriptionHtml" : "<p>null</p>\n<p>null</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Set DELETE data service api endpoint",
+      "time" : {
+        "start" : 1585947855130,
+        "stop" : 1585947855131,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When User deletes an existing record in a project",
+      "time" : {
+        "start" : 1585947855134,
+        "stop" : 1585947855194,
+        "duration" : 60
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then receives a delete status",
+      "time" : {
+        "start" : 1585947855195,
+        "stop" : 1585947855196,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Test CRUD methods in the Rest API"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-04MOMSC6"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Delete an existing record"
+  }, {
+    "name" : "thread",
+    "value" : "5208@LAPTOP-04MOMSC6.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "Test CRUD methods in the Rest API"
+  }, {
+    "name" : "testClass",
+    "value" : "Test CRUD methods in the Rest API"
+  }, {
+    "name" : "testMethod",
+    "value" : "Delete an existing record"
+  }, {
+    "name" : "package",
+    "value" : "Test CRUD methods in the Rest API"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d9e3650e3f4bd793.json",
+  "parameterValues" : [ ]
+}

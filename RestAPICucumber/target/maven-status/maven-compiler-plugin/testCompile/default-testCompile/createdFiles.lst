@@ -1,0 +1,5 @@
+com\qa\test\TestRunner.class
+stepDefinitions\POST_Request.class
+stepDefinitions\PUT_Request.class
+stepDefinitions\GET_Request.class
+stepDefinitions\DELETE_Request.class

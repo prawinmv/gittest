@@ -1,0 +1,84 @@
+{
+  "a94d666f5ab849305eb4dc354f2ed646" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3040d85d8d7b513b",
+      "reportUrl" : "http://localhost:8080/job/RestAPICucumber/2/allure/#testresult/3040d85d8d7b513b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585947848878,
+        "stop" : 1585947854937,
+        "duration" : 6059
+      }
+    } ]
+  },
+  "e443c45ca6602adf554c1247a00e5534" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d9e3650e3f4bd793",
+      "reportUrl" : "http://localhost:8080/job/RestAPICucumber/2/allure/#testresult/d9e3650e3f4bd793",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585947855113,
+        "stop" : 1585947855197,
+        "duration" : 84
+      }
+    } ]
+  },
+  "8084c0b42929760d040e15db382a3758" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cbf0721cb4ee5dcb",
+      "reportUrl" : "http://localhost:8080/job/RestAPICucumber/2/allure/#testresult/cbf0721cb4ee5dcb",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: expected [200] but found [404]",
+      "time" : {
+        "start" : 1585947854966,
+        "stop" : 1585947855066,
+        "duration" : 100
+      }
+    } ]
+  },
+  "5301efde99695de7c863af40abf35c23" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d1c9fc92b27e8fc",
+      "reportUrl" : "http://localhost:8080/job/RestAPICucumber/2/allure/#testresult/5d1c9fc92b27e8fc",
+      "status" : "broken",
+      "statusDetails" : "UnknownHostException: restapi.demoqa.com",
+      "time" : {
+        "start" : 1585947855067,
+        "stop" : 1585947855112,
+        "duration" : 45
+      }
+    } ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: expected [200] but found [404]",
+      "children" : [ {
+        "name" : "Data update for an existing record",
+        "uid" : "cbf0721cb4ee5dcb",
+        "parentUid" : "0b184d9b59fa41fd4d43216f95e5024b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1585947854966,
+          "stop" : 1585947855066,
+          "duration" : 100
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0b184d9b59fa41fd4d43216f95e5024b"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "UnknownHostException: restapi.demoqa.com",
+      "children" : [ {
+        "name" : "Data retrieval from a Web service",
+        "uid" : "5d1c9fc92b27e8fc",
+        "parentUid" : "3a29827391f3360323aa6051432cfa1b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1585947855067,
+          "stop" : 1585947855112,
+          "duration" : 45
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3a29827391f3360323aa6051432cfa1b"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

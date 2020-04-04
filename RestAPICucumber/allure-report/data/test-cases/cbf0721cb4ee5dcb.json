@@ -1,0 +1,128 @@
+{
+  "uid" : "cbf0721cb4ee5dcb",
+  "name" : "Data update for an existing record",
+  "fullName" : "Test CRUD methods in the Rest API.Data update for an existing record",
+  "historyId" : "8084c0b42929760d040e15db382a3758",
+  "time" : {
+    "start" : 1585947854966,
+    "stop" : 1585947855066,
+    "duration" : 100
+  },
+  "description" : "null\n\nnull",
+  "descriptionHtml" : "<p>null</p>\n<p>null</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: expected [200] but found [404]",
+  "statusTrace" : "java.lang.AssertionError: expected [200] but found [404]\r\n\tat org.testng.Assert.fail(Assert.java:97)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:136)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:839)\r\n\tat org.testng.Assert.assertEquals(Assert.java:849)\r\n\tat stepDefinitions.PUT_Request.receives_a_put_response(PUT_Request.java:45)\r\n\tat ✽.Then receives a valid status(RestAPI.feature:13)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: expected [200] but found [404]",
+    "statusTrace" : "java.lang.AssertionError: expected [200] but found [404]\r\n\tat org.testng.Assert.fail(Assert.java:97)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:136)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:839)\r\n\tat org.testng.Assert.assertEquals(Assert.java:849)\r\n\tat stepDefinitions.PUT_Request.receives_a_put_response(PUT_Request.java:45)\r\n\tat ✽.Then receives a valid status(RestAPI.feature:13)\r\n",
+    "steps" : [ {
+      "name" : "Given Set PUT data service api endpoint",
+      "time" : {
+        "start" : 1585947854969,
+        "stop" : 1585947854970,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When User updates existing record in a project",
+      "time" : {
+        "start" : 1585947854970,
+        "stop" : 1585947855055,
+        "duration" : 85
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then receives a valid status",
+      "time" : {
+        "start" : 1585947855056,
+        "stop" : 1585947855064,
+        "duration" : 8
+      },
+      "status" : "failed",
+      "statusMessage" : "java.lang.AssertionError: expected [200] but found [404]\r\n\tat org.testng.Assert.fail(Assert.java:97)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:136)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:839)\r\n\tat org.testng.Assert.assertEquals(Assert.java:849)\r\n\tat stepDefinitions.PUT_Request.receives_a_put_response(PUT_Request.java:45)\r\n\tat ✽.Then receives a valid status(RestAPI.feature:13)\r\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Test CRUD methods in the Rest API"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-04MOMSC6"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Data update for an existing record"
+  }, {
+    "name" : "thread",
+    "value" : "5208@LAPTOP-04MOMSC6.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "Test CRUD methods in the Rest API"
+  }, {
+    "name" : "testClass",
+    "value" : "Test CRUD methods in the Rest API"
+  }, {
+    "name" : "testMethod",
+    "value" : "Data update for an existing record"
+  }, {
+    "name" : "package",
+    "value" : "Test CRUD methods in the Rest API"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "cbf0721cb4ee5dcb.json",
+  "parameterValues" : [ ]
+}

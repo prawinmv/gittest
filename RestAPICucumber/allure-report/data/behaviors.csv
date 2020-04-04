@@ -1,0 +1,5 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Test CRUD methods in the Rest API","Data Upload to a Web service","0","0","1","0","0"
+"","Test CRUD methods in the Rest API","Data retrieval from a Web service","0","1","0","0","0"
+"","Test CRUD methods in the Rest API","Delete an existing record","0","0","1","0","0"
+"","Test CRUD methods in the Rest API","Data update for an existing record","1","0","0","0","0"

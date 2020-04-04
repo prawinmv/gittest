@@ -1,0 +1,134 @@
+{
+  "uid" : "3040d85d8d7b513b",
+  "name" : "Data Upload to a Web service",
+  "fullName" : "Test CRUD methods in the Rest API.Data Upload to a Web service",
+  "historyId" : "a94d666f5ab849305eb4dc354f2ed646",
+  "time" : {
+    "start" : 1585947848878,
+    "stop" : 1585947854937,
+    "duration" : 6059
+  },
+  "description" : "null\n\nnull",
+  "descriptionHtml" : "<p>null</p>\n<p>null</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Set POST data service api endpoint",
+      "time" : {
+        "start" : 1585947848919,
+        "stop" : 1585947850603,
+        "duration" : 1684
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When User upload data on a project",
+      "time" : {
+        "start" : 1585947850616,
+        "stop" : 1585947854897,
+        "duration" : 4281
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then the server should handle it",
+      "time" : {
+        "start" : 1585947854898,
+        "stop" : 1585947854913,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then return a success status",
+      "time" : {
+        "start" : 1585947854915,
+        "stop" : 1585947854935,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Test CRUD methods in the Rest API"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-04MOMSC6"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Data Upload to a Web service"
+  }, {
+    "name" : "thread",
+    "value" : "5208@LAPTOP-04MOMSC6.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "Test CRUD methods in the Rest API"
+  }, {
+    "name" : "testClass",
+    "value" : "Test CRUD methods in the Rest API"
+  }, {
+    "name" : "testMethod",
+    "value" : "Data Upload to a Web service"
+  }, {
+    "name" : "package",
+    "value" : "Test CRUD methods in the Rest API"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3040d85d8d7b513b.json",
+  "parameterValues" : [ ]
+}

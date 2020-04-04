@@ -1,0 +1,13 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Apr 04 02:34:08 IST 2020","Sat Apr 04 02:34:14 IST 2020","6059","","Test CRUD methods in the Rest API","","Test CRUD methods in the Rest API","Data Upload to a Web service","Data Upload to a Web service","null
+
+null"
+"broken","Sat Apr 04 02:34:15 IST 2020","Sat Apr 04 02:34:15 IST 2020","45","","Test CRUD methods in the Rest API","","Test CRUD methods in the Rest API","Data retrieval from a Web service","Data retrieval from a Web service","null
+
+null"
+"passed","Sat Apr 04 02:34:15 IST 2020","Sat Apr 04 02:34:15 IST 2020","84","","Test CRUD methods in the Rest API","","Test CRUD methods in the Rest API","Delete an existing record","Delete an existing record","null
+
+null"
+"failed","Sat Apr 04 02:34:14 IST 2020","Sat Apr 04 02:34:15 IST 2020","100","","Test CRUD methods in the Rest API","","Test CRUD methods in the Rest API","Data update for an existing record","Data update for an existing record","null
+
+null"
